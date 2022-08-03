@@ -14,7 +14,6 @@ def menu() :
 	print "\033[1;32;50m***********************************************"
 	print " Wifi Deauthentication hacking tool!"
 	print "***********************************************"
-	print "By: Adam Lev-Ari 204115547 & Nathan Almaleh 209633635\n"
 	print "\033[0;39;50m1.	Scan for nearby Access Points.\n2.	Exit.\n"
 	global monName, MAC_channel
 	choise = input()
